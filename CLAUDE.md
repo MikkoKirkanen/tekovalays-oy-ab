@@ -31,6 +31,7 @@ Tämä luettelo kertoo, mitkä taidot ja agentit ovat käytössä tässä kansio
 | Kalenterikutsujen järjestäjä | [`Claude outputs/taidot/kalenterikutsujen-jarjestaja.md`](Claude%20outputs/taidot/kalenterikutsujen-jarjestaja.md) | laaditaan, lähetetään, siirretään tai perutaan kalenterikutsuja. Lähetys vain käyttäjän luvalla. Fasilitoija käyttää tätä työpajojen kutsuihin. | – |
 | AI haastattelee agentin luomisesta | [`Claude outputs/taidot/ai-haastattelee-agentin-luomisen.md`](Claude%20outputs/taidot/ai-haastattelee-agentin-luomisen.md) | ideoidaan, valitaan tai määritellään agenttia, esimerkiksi "mikä agentti meidän kannattaisi tehdä" tai "haastattele meitä agentista" | – |
 | Projektisuunnittelija | [`Claude outputs/taidot/projektisuunnittelija.md`](Claude%20outputs/taidot/projektisuunnittelija.md) | tarjous on hyväksytty ja siitä tehdään projektisuunnitelma, joka viedään Jiraan (TOA), esimerkiksi "tee projektisuunnitelma tarjouksesta" tai "vie projekti Jiraan". Taito lukee ja päivittää [pilkkomisohjetta](Claude%20outputs/taidot/projektisuunnittelija/pilkkomisohje.md). Tiketit luodaan vain käyttäjän luvalla. | – |
+| B2B-myyntiassistentti | [`Claude outputs/taidot/b2b-myyntiassistentti.md`](Claude%20outputs/taidot/b2b-myyntiassistentti.md) | profiloidaan kohdeyritys tai nykyasiakas ja arvioidaan Tekoväläyksen tarjonnan soveltuvuus, esimerkiksi "profiloi tämä kohdeyritys" tai "onko tälle asiakkaalle lisämyyntimahdollisuutta". Tiedot annetaan taidolle käsin (esim. Odoosta); taito ei hae tietoa verkosta eikä kirjaudu järjestelmiin. Syntyi [agenttihaastattelusta](Claude%20outputs/agenttimaarittelyt/agenttimaarittely-b2b-myyntiassistentti.md). Tarkoitettu oikean asiakasdatan käsittelyyn organisaation omassa valtuutetussa ympäristössä, ei tähän harjoituskansioon. | – |
 
 ### Fasilitoijan subagentit
 
@@ -73,4 +74,4 @@ Tämä kansio sisältää synteettistä harjoitusaineistoa Tekoväläys Oy Ab -n
 - Kun uusi tarve, integraatio tai käytäntö tunnistetaan työskentelyn yhteydessä, päivitä se tähän tiedostoon, ei kopioihin.
 - Kun uusi taito tai agentti luodaan, päivitä kohta [Taidot ja agentit](#taidot-ja-agentit), subagenttien luettelo tarvittaessa ja sen päätaidon ohje samalla kertaa. Tämä dokumentointipäivitys on osa taidon tai agentin luomista.
 
-_Päivitetty: 2026-09-25 (agenttirakenne järjestetty kategorioittain, kansio itsenäiseksi)_
+_Päivitetty: 2026-09-25 (lisätty B2B-myyntiassistentti-taito agenttihaastattelun pohjalta)_
